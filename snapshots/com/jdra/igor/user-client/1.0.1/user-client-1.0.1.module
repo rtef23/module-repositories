@@ -3,7 +3,7 @@
   "component": {
     "group": "com.jdra.igor",
     "module": "user-client",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "user-client-1.0.0.jar",
-          "url": "user-client-1.0.0.jar",
+          "name": "user-client-1.0.1.jar",
+          "url": "user-client-1.0.1.jar",
           "size": 1201,
-          "sha512": "4df136ed5f68c1951e210ba469e6801327deae36a17e947ee889de0f91dec745730524d96245d4685de3e8a52cde2af7c8c2c0165e6564939d2a563a2c4417dd",
-          "sha256": "f760c02b073620bcd904e58df17e4416bde778f6bbc8cdfcf5d5b12269cf6cb7",
-          "sha1": "32b59c36720dfb3a4b3f592de0540eb68a267a7b",
-          "md5": "769ff101000c0779630e46cf7fe1083d"
+          "sha512": "dd548683b72bf968f0bd704ee0083980fae9700eb7c31852a4eeb2a57afe1ffe775b08b08e2afeb5ff2bda8de71b317a5d13e2b3c38130a0064bbbcb2fbfad9b",
+          "sha256": "3b8ec9bb7ba9e99386c4af5d130846bab944675e9fb867c2f412f70a7eb84ee6",
+          "sha1": "20466898cfc5fa1fa282d01b2a2de3c640d6aebf",
+          "md5": "b9225b8728204d8b07a27eb5303000e7"
         }
       ]
     },
@@ -46,13 +46,13 @@
       },
       "files": [
         {
-          "name": "user-client-1.0.0.jar",
-          "url": "user-client-1.0.0.jar",
+          "name": "user-client-1.0.1.jar",
+          "url": "user-client-1.0.1.jar",
           "size": 1201,
-          "sha512": "4df136ed5f68c1951e210ba469e6801327deae36a17e947ee889de0f91dec745730524d96245d4685de3e8a52cde2af7c8c2c0165e6564939d2a563a2c4417dd",
-          "sha256": "f760c02b073620bcd904e58df17e4416bde778f6bbc8cdfcf5d5b12269cf6cb7",
-          "sha1": "32b59c36720dfb3a4b3f592de0540eb68a267a7b",
-          "md5": "769ff101000c0779630e46cf7fe1083d"
+          "sha512": "dd548683b72bf968f0bd704ee0083980fae9700eb7c31852a4eeb2a57afe1ffe775b08b08e2afeb5ff2bda8de71b317a5d13e2b3c38130a0064bbbcb2fbfad9b",
+          "sha256": "3b8ec9bb7ba9e99386c4af5d130846bab944675e9fb867c2f412f70a7eb84ee6",
+          "sha1": "20466898cfc5fa1fa282d01b2a2de3c640d6aebf",
+          "md5": "b9225b8728204d8b07a27eb5303000e7"
         }
       ]
     }
